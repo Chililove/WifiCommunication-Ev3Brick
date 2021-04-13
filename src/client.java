@@ -48,10 +48,9 @@ public class client {
 			
 			System.out.println("mistake");
 		
-		}
+			}
 			
 		}
-		
 	}
 
 
